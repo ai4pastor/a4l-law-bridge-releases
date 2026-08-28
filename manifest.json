@@ -1,0 +1,9 @@
+{
+  "id": "a4l-law-bridge",
+  "name": "A4L Law Bridge",
+  "version": "0.4.0",
+  "minAppVersion": "1.5.0",
+  "description": "법령을 조문 단위 노트로 동기화하고, 조문·사건번호를 실시간 인식해 위키링크와 추천으로 연결합니다.",
+  "author": "abadcsh",
+  "isDesktopOnly": true
+}
